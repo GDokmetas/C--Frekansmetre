@@ -1,0 +1,9 @@
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\bin\Debug\frekansokuyucu.exe.config
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\obj\Debug\frekansokuyucu.csprojResolveAssemblyReference.cache
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\obj\Debug\frekansokuyucu.Form1.resources
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\obj\Debug\frekansokuyucu.Properties.Resources.resources
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\obj\Debug\frekansokuyucu.csproj.GenerateResource.Cache
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\bin\Debug\frekansokuyucu.exe
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\bin\Debug\frekansokuyucu.pdb
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\obj\Debug\frekansokuyucu.exe
+C:\Users\GDokmetas\Desktop\frekansmetre_uno\frekansokuyucu\frekansokuyucu\obj\Debug\frekansokuyucu.pdb
